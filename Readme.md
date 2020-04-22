@@ -4,3 +4,7 @@ This script will run through your unread mail and sort it by sender. From there 
 - create whitelists / blacklists
 - enable logic to specify filters
 - make emails actionable
+
+----
+
+P.S. I don't know why I called it transorma, I tend to obscure the names of my projects to play tricks on myself that I don't get :( 
